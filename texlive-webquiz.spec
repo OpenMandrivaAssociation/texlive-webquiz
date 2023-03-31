@@ -1,6 +1,6 @@
 Name:		texlive-webquiz
 Version:	58808
-Release:	1
+Release:	2
 Summary:	Write interactive web based quizzes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/webquiz
