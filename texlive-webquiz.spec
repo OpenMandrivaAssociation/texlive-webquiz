@@ -3,7 +3,7 @@ Version:	58808
 Release:	2
 Summary:	Write interactive web based quizzes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/webquiz
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/webquiz
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/webquiz.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/webquiz.doc.r%{version}.tar.xz
